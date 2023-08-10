@@ -5,7 +5,6 @@ go 1.19
 require (
 	github.com/Azure/terraform-module-test-helper v0.15.0
 	github.com/gruntwork-io/terratest v0.43.9
-	github.com/stretchr/testify v1.8.4
 )
 
 require (
@@ -77,6 +76,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/stretchr/testify v1.8.4 // indirect
 	github.com/thanhpk/randstr v1.0.6 // indirect
 	github.com/tmccombs/hcl2json v0.3.3 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
